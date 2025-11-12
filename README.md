@@ -3,7 +3,7 @@
 Este projeto segue o padrão de **Conventional Commits** para manter um histórico de commits organizado e semântico.
 
 ## ✨ Índice
-- [Formato do Commit](#formato-do-commit)
+- [Formato do Commit](#-formato-do-commit)
 - [Tipos de Commit](#-tipos-de-commit)
 - [Por que usar Commits Semânticos?](#por-que-usar-commits-semânticos)
 - [Escopos](#escopos)
@@ -14,7 +14,7 @@ Este projeto segue o padrão de **Conventional Commits** para manter um históri
 - [Exemplos de Fluxo Completo](#exemplos-de-fluxo-completo)
 - [Dicas para a Equipe](#dicas-para-a-equipe)
 
-## Formato do Commit
+## 📚 Formato do Commit
 
 ```
 <tipo>(<escopo>): <descrição>
