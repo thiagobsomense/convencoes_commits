@@ -370,10 +370,27 @@ Estabeleça padrões:
 - Squash/rebase em PRs para manter histórico limpo
 - Bloqueie pushes diretos na main (proteja a branch)
 
-## Benefícios
+## ✨ Benefícios
 
 - ✨ Histórico mais legível e organizado
 - 🔍 Facilita a busca de mudanças específicas
 - 📝 Auxilia na geração automática de CHANGELOGs
 - 🔄 Melhora a compreensão do projeto por novos desenvolvedores
 - 🚀 Acelera onboarding de novos membros
+
+---
+
+## 📚 Recursos Adicionais
+
+- [Conventional Commits](https://www.conventionalcommits.org/)
+- [Semantic Versioning](https://semver.org/)
+- [Commitlint](https://commitlint.js.org/)
+- [Husky](https://typicode.github.io/husky/)
+
+## 📝 Licença
+
+Este guia é de uso livre para sua equipe. Sinta-se à vontade para adaptá-lo conforme necessário.
+
+---
+
+**Última atualização:** 12 de novembro de 2025
